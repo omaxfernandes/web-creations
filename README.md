@@ -5,6 +5,7 @@ This repository houses a collection of projects developed using HTML, CSS, and J
 ### Highlights
 
 - **Project 1**: An age calculator that allows users to input their date of birth and calculates their age.
+- **Project 2**: A simple To-Do List web application to help you organize and manage your tasks efficiently.
 
 
 Each project folder contains its own set of HTML, CSS, and JavaScript files, along with usage and implementation instructions. Feel free to explore and learn from these projects or use them as a starting point for your own creations.
