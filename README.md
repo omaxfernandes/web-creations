@@ -1,4 +1,4 @@
-## HTML, CSS, and JavaScript Projects Repository
+## web-creations Repository
 
 This repository houses a collection of projects developed using HTML, CSS, and JavaScript. Each project serves as a practical demonstration of different web development concepts and techniques, ranging from interactive web pages to more complex web applications.
 
